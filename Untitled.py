@@ -17,6 +17,8 @@ get_ipython().system('pip install pandas')
 get_ipython().system('pip install sentence-transformers')
 get_ipython().system('pip install scikit-learn')
 
+get_ipython().system('pip install scikit-image')
+
 
 # In[17]:
 
